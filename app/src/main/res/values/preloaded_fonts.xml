@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/aclonica</item>
+        <item>@font/alegreya_bold_italic</item>
+        <item>@font/alegreya_italic</item>
+        <item>@font/amita</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/arizonia</item>
+        <item>@font/bad_script</item>
+        <item>@font/caveat_brush</item>
+    </array>
+</resources>
